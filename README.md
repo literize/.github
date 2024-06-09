@@ -1,1 +1,2 @@
-# .github
+# Bem-vindo(a) ao Literize ✨
+O Literize é um aplicativo móvel projetado para ajudar os usuários a gerenciar suas leituras de forma eficiente. Com uma interface intuitiva e recursos essenciais, o aplicativo visa facilitar o acompanhamento do progresso de leitura, descobrir novos livros e manter uma biblioteca pessoal organizada. Em essência, "Literize" é sobre tornar a experiência do gerenciamento de leituras mais prático e organizada para os amantes de livros.
